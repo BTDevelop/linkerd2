@@ -23,7 +23,7 @@
     "d3-format": "3.0.1",
     "d3-selection": "3.0.0",
     "date-fns": "2.23.0",
-    "jest-progress-bar-reporter": "^1.0.21",
+    "jest-progress-bar-reporter": "^1.0.25",
     "locales-detector": "3.0.2",
     "lodash": "4.17.21",
     "make-plural": "^6.2.2",
